@@ -12,6 +12,10 @@ Sobre tecnologias
 
 ## At: ATIVIDADE 7 (Admissão e Demissão)
 
+<img width="891" height="506" alt="image" src="https://github.com/user-attachments/assets/d6879084-ccea-4602-bbd3-e1ba5b2e6984" />
+
+## At: ATIVIDADE 8 (tratamento de dados DAX)
 <img width="1920" height="1080" alt="Captura de tela 2026-05-07 224709" src="https://github.com/user-attachments/assets/26bb76cd-e58d-4289-9ccc-ac01b789670a" />
+
 
 
