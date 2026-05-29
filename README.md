@@ -15,18 +15,21 @@ Sobre tecnologias
 usando o powerbi com os dados abertos sp trabalho-emprego-formal-municípios do estado de são Paulo para responder 2 perguntas que a professora gerou
 # 1° PERGUNTA
 qual ano e mês o saldo de transferência foi menor ?
-![Saldo de Movimentação](./Screenshot_20260529-193801.GitHub.png)
+<img width="1076" height="564" alt="image" src="https://github.com/user-attachments/assets/08e5793b-da83-4a31-b90e-066adaaea48b" />
+
 resposta: o ano foi o 2020 e o mês foi abril.
 
 trabalho-emprego-formal-municípios do estado de são Paulo criando e respondendo 2 perguntas que foram criadas por nós alunos.
 
 # 1° PERGUNTA
 qual ano e mês teve o maior saldo de rejeição?
-![Soma de Admissões](./Screenshot_20260529-194201.png)
+<img width="1078" height="584" alt="image" src="https://github.com/user-attachments/assets/ed52a41f-7042-4586-93b7-c3700f80e803" />
+
 resposta: o ano foi 2025 e o mês foi fevereiro.
 # 2° PERGUNTA
 Qual ano e mês teve o menor saldo de depósito?
-![Soma de Admissões por Mês](./Screenshot_20260529-194553.png)
+<img width="1079" height="590" alt="image" src="https://github.com/user-attachments/assets/4048273f-d4d2-4064-b97e-782f5d59d5c0" />
+
 resposta: o ano foi 2020 e o mês foi maio
 
 ## ATIVIDADE 7.1 (Admissão e Demissão)
@@ -40,10 +43,7 @@ resposta: o ano foi 2020 e o mês foi maio
 planilha sorvete vs temperatura de gráfico linear
 pelo Excel e Google colab
 
-![Dashboard do Excel](./Screenshot_20260515-201742.Excel.png)
-Google Colab
-[Abrir no Google Colab](https://colab.research.google.com/drive/11afMnBjXucy0cU-k9hQfQ_7FDDq2m31G?usp=sharing)
-![Visualização no Chrome](./Screenshot_20260515-202329.Chrome.png)
+<img width="1079" height="585" alt="image" src="https://github.com/user-attachments/assets/21e5207a-6413-421e-99d9-d261c774a16c" />
 
 
 ## ATIVIDADE 11
