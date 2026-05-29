@@ -22,11 +22,11 @@ trabalho-emprego-formal-municípios do estado de são Paulo criando e respondend
 
 # 1° PERGUNTA
 qual ano e mês teve o maior saldo de rejeição?
-![Soma de Admissões](./Screenshot_20260529-194201.GitHub.png)
+![Soma de Admissões](./Screenshot_20260529-194201.png)
 resposta: o ano foi 2025 e o mês foi fevereiro.
 # 2° PERGUNTA
 Qual ano e mês teve o menor saldo de depósito?
-![Soma de Admissões por Mês](./Screenshot_20260529-194553.GitHub.png)
+![Soma de Admissões por Mês](./Screenshot_20260529-194553.png)
 resposta: o ano foi 2020 e o mês foi maio
 
 ## ATIVIDADE 7.1 (Admissão e Demissão)
@@ -40,7 +40,6 @@ resposta: o ano foi 2020 e o mês foi maio
 planilha sorvete vs temperatura de gráfico linear
 pelo Excel e Google colab
 
-[Abrir planilha](https://centropaulasouza-my.sharepoint.com/:x:/g/personal/leonardo_balieiro_aluno_cps_sp_gov_br/IQC7MCdzkbXSRaGAbCnPrylQAeoMGHn6dvfCeSKw9Nfpknk?email=leocbalieiro%40gmail.com&e=CODTrr)
 ![Dashboard do Excel](./Screenshot_20260515-201742.Excel.png)
 Google Colab
 [Abrir no Google Colab](https://colab.research.google.com/drive/11afMnBjXucy0cU-k9hQfQ_7FDDq2m31G?usp=sharing)
